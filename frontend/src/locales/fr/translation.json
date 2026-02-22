@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "pricing": "Tarifs"
+  },
+  "home": {
+    "title": "Outils PDF Gratuits en Ligne",
+    "titleHighlight": "Sans inscription",
+    "subtitle": "Compressez, convertissez, fusionnez et modifiez des fichiers PDF gratuitement. Une meilleure alternative à Smallpdf sans limites ni filigranes.",
+    "badge1": "100% Gratuit",
+    "badge2": "Sans inscription",
+    "badge3": "Illimité",
+    "toolsTitle": "Outils PDF populaires",
+    "whyTitle": "Pourquoi choisir PDF Tools?",
+    "whySubtitle": "Nous pensons que tout le monde mérite l'accès à des outils PDF professionnels sans payer d'abonnements.",
+    "feature1Title": "Entièrement gratuit",
+    "feature1Desc": "Pas de frais cachés, pas d'abonnements, pas de carte de crédit requise. Tous les outils sont gratuits pour toujours.",
+    "feature2Title": "Confidentialité d'abord",
+    "feature2Desc": "Vos fichiers sont traités en toute sécurité et automatiquement supprimés. Nous ne stockons jamais vos documents.",
+    "feature3Title": "Rapide et fiable",
+    "feature3Desc": "Traitez les fichiers instantanément avec nos outils optimisés. Pas d'attente, pas de délais.",
+    "seoTitle": "Vous cherchez une alternative à Smallpdf?",
+    "seoDesc": "Essayez PDF Tools - l'alternative gratuite à Smallpdf. Toutes les fonctionnalités dont vous avez besoin sans abonnement.",
+    "cta": "Essayer maintenant — C'est gratuit"
+  },
+  "tools": {
+    "compress": {
+      "name": "Compresser PDF",
+      "description": "Réduire la taille du fichier PDF en maintenant la qualité",
+      "longDesc": "Compressez vos fichiers PDF pour réduire la taille jusqu'à 70% tout en conservant la qualité. Parfait pour les pièces jointes.",
+      "action": "Compresser PDF",
+      "seoTitle": "Compresseur PDF Gratuit - Alternative à Smallpdf",
+      "seoContent": "Notre compresseur PDF gratuit réduit la taille des fichiers sans perte de qualité."
+    },
+    "merge": {
+      "name": "Fusionner PDF",
+      "description": "Combiner plusieurs PDF en un seul document",
+      "longDesc": "Fusionnez plusieurs fichiers PDF en un seul document. Glissez-déposez pour réorganiser les pages.",
+      "action": "Fusionner les PDF",
+      "minFiles": "Sélectionnez au moins 2 fichiers",
+      "seoTitle": "Fusion PDF Gratuite - Combiner des PDF en ligne",
+      "seoContent": "Fusionnez des fichiers PDF gratuitement avec notre outil en ligne. Pas d'inscription requise."
+    },
+    "pdfToWord": {
+      "name": "PDF vers Word",
+      "description": "Convertir PDF en document Word modifiable",
+      "longDesc": "Convertissez vos fichiers PDF en documents Microsoft Word modifiables (.docx). Préserve le formatage.",
+      "action": "Convertir en Word",
+      "seoTitle": "Convertisseur PDF vers Word Gratuit - Sans inscription",
+      "seoContent": "Convertissez PDF en Word gratuitement. Notre outil préserve le formatage."
+    },
+    "wordToPdf": {
+      "name": "Word vers PDF",
+      "description": "Convertir documents Word en PDF",
+      "longDesc": "Convertissez vos documents Word (.doc, .docx) au format PDF. Maintient le formatage et les polices.",
+      "action": "Convertir en PDF",
+      "seoTitle": "Convertisseur Word vers PDF Gratuit en Ligne",
+      "seoContent": "Convertissez Word en PDF gratuitement en ligne. Aucune installation de logiciel nécessaire."
+    },
+    "jpgToPdf": {
+      "name": "JPG vers PDF",
+      "description": "Convertir images en document PDF",
+      "longDesc": "Convertissez JPG, PNG, GIF et autres formats d'image en PDF. Combinez plusieurs images en un seul PDF.",
+      "action": "Créer PDF",
+      "seoTitle": "Convertisseur JPG vers PDF Gratuit - Images multiples",
+      "seoContent": "Convertissez JPG et autres images en PDF gratuitement. Créez un document PDF avec plusieurs images."
+    }
+  },
+  "dropzone": {
+    "drag": "Glissez-déposez les fichiers ici",
+    "drop": "Déposez les fichiers ici",
+    "or": "ou",
+    "browse": "parcourir les fichiers",
+    "maxSize": "Taille maximale: {{size}} Mo"
+  },
+  "common": {
+    "files": "Fichiers",
+    "download": "Télécharger",
+    "processing": "Traitement..."
+  },
+  "footer": {
+    "description": "Outils PDF gratuits en ligne. Une meilleure alternative à Smallpdf.",
+    "tools": "Outils",
+    "legal": "Mentions légales",
+    "compare": "Comparer",
+    "copyright": "Tous droits réservés."
+  },
+  "pricing": {
+    "title": "Tarification simple",
+    "subtitle": "Contrairement à Smallpdf, nous pensons que les outils PDF devraient être gratuits pour tous.",
+    "recommended": "Recommandé",
+    "forever": "/ pour toujours",
+    "getStarted": "Commencer gratuitement",
+    "freePlan": {
+      "name": "Plan Gratuit",
+      "feature1": "Tous les outils PDF inclus",
+      "feature2": "Traitement de fichiers illimité",
+      "feature3": "Sans filigrane",
+      "feature4": "Sans inscription",
+      "feature5": "Sans publicité"
+    },
+    "compare": {
+      "title": "Smallpdf Pro",
+      "feature1": "Abonnement mensuel requis",
+      "feature2": "Renouvellement automatique (difficile à annuler)",
+      "feature3": "Limites quotidiennes en version gratuite",
+      "feature4": "Compte requis",
+      "feature5": "Cher à 180$/an",
+      "why": "Pourquoi payer quand vous pouvez utiliser PDF Tools gratuitement?"
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "q1": "PDF Tools est-il vraiment gratuit?",
+      "a1": "Oui! Tous nos outils sont 100% gratuits à utiliser. Pas de carte de crédit requise, pas de frais cachés.",
+      "q2": "Pourquoi est-ce gratuit alors que Smallpdf facture?",
+      "a2": "Nous pensons que les outils PDF de base devraient être accessibles à tous. Nos outils sont efficaces et peu coûteux à exploiter.",
+      "q3": "Mes fichiers sont-ils sécurisés?",
+      "a3": "Absolument. Les fichiers sont traités en toute sécurité et automatiquement supprimés après traitement."
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "pricing": "가격"
+  },
+  "home": {
+    "title": "무료 온라인 PDF 도구",
+    "titleHighlight": "가입 불필요",
+    "subtitle": "PDF 파일을 무료로 압축, 변환, 병합, 편집하세요. 제한 없고 워터마크 없는 Smallpdf 대안.",
+    "badge1": "100% 무료",
+    "badge2": "가입 불필요",
+    "badge3": "무제한",
+    "toolsTitle": "인기 PDF 도구",
+    "whyTitle": "PDF Tools를 선택하는 이유",
+    "whySubtitle": "구독료 없이 누구나 전문 PDF 도구에 접근할 수 있어야 한다고 생각합니다.",
+    "feature1Title": "완전 무료",
+    "feature1Desc": "숨겨진 비용 없음, 구독 없음, 신용카드 불필요. 모든 도구가 영원히 무료.",
+    "feature2Title": "개인정보 보호 우선",
+    "feature2Desc": "파일은 안전하게 처리되고 자동으로 삭제됩니다. 문서를 저장하지 않습니다.",
+    "feature3Title": "빠르고 신뢰할 수 있음",
+    "feature3Desc": "최적화된 도구로 파일을 즉시 처리. 기다림 없음, 지연 없음.",
+    "seoTitle": "Smallpdf 대안을 찾고 계신가요?",
+    "seoDesc": "PDF Tools를 사용해 보세요 - Smallpdf의 무료 대안. 구독 없이 필요한 모든 기능.",
+    "cta": "지금 시작하기 — 무료"
+  },
+  "tools": {
+    "compress": {
+      "name": "PDF 압축",
+      "description": "품질을 유지하면서 PDF 파일 크기 축소",
+      "longDesc": "PDF 파일을 최대 70% 압축하면서 품질을 유지합니다. 이메일 첨부와 온라인 공유에 완벽.",
+      "action": "PDF 압축",
+      "seoTitle": "무료 PDF 압축기 - Smallpdf 대안",
+      "seoContent": "무료 PDF 압축기로 품질 손실 없이 파일 크기를 줄이세요."
+    },
+    "merge": {
+      "name": "PDF 병합",
+      "description": "여러 PDF를 하나의 문서로 결합",
+      "longDesc": "여러 PDF 파일을 하나의 문서로 병합합니다. 드래그 앤 드롭으로 페이지 순서 변경.",
+      "action": "PDF 병합",
+      "minFiles": "최소 2개의 파일을 선택하세요",
+      "seoTitle": "무료 PDF 병합 - 온라인에서 PDF 결합",
+      "seoContent": "온라인 도구로 PDF 파일을 무료로 병합하세요. 가입 불필요, 워터마크 없음."
+    },
+    "pdfToWord": {
+      "name": "PDF를 Word로",
+      "description": "PDF를 편집 가능한 Word 문서로 변환",
+      "longDesc": "PDF 파일을 편집 가능한 Microsoft Word 문서(.docx)로 변환. 서식과 레이아웃 유지.",
+      "action": "Word로 변환",
+      "seoTitle": "무료 PDF to Word 변환기 - 가입 불필요",
+      "seoContent": "PDF를 Word로 무료 변환. 서식을 유지하고 가입이 필요 없습니다."
+    },
+    "wordToPdf": {
+      "name": "Word를 PDF로",
+      "description": "Word 문서를 PDF로 변환",
+      "longDesc": "Word 문서(.doc, .docx)를 PDF 형식으로 변환. 서식과 글꼴 유지.",
+      "action": "PDF로 변환",
+      "seoTitle": "무료 온라인 Word to PDF 변환기",
+      "seoContent": "온라인에서 Word를 PDF로 무료 변환. 소프트웨어 설치 불필요."
+    },
+    "jpgToPdf": {
+      "name": "JPG를 PDF로",
+      "description": "이미지를 PDF 문서로 변환",
+      "longDesc": "JPG, PNG, GIF 및 기타 이미지 형식을 PDF로 변환. 여러 이미지를 하나의 PDF로 결합.",
+      "action": "PDF 만들기",
+      "seoTitle": "무료 JPG to PDF 변환기 - 다중 이미지",
+      "seoContent": "JPG 및 기타 이미지를 무료로 PDF로 변환. 여러 이미지로 단일 PDF 문서 생성."
+    }
+  },
+  "dropzone": {
+    "drag": "여기에 파일을 드래그 앤 드롭",
+    "drop": "여기에 파일을 놓으세요",
+    "or": "또는",
+    "browse": "파일 찾아보기",
+    "maxSize": "최대 파일 크기: {{size}} MB"
+  },
+  "common": {
+    "files": "파일",
+    "download": "다운로드",
+    "processing": "처리 중..."
+  },
+  "footer": {
+    "description": "무료 온라인 PDF 도구. Smallpdf의 더 나은 대안.",
+    "tools": "도구",
+    "legal": "법적 고지",
+    "compare": "비교",
+    "copyright": "모든 권리 보유."
+  },
+  "pricing": {
+    "title": "간단한 가격",
+    "subtitle": "Smallpdf와 달리, PDF 도구는 모두에게 무료여야 한다고 생각합니다.",
+    "recommended": "추천",
+    "forever": "/ 영원히",
+    "getStarted": "무료로 시작",
+    "freePlan": {
+      "name": "무료 플랜",
+      "feature1": "모든 PDF 도구 포함",
+      "feature2": "무제한 파일 처리",
+      "feature3": "워터마크 없음",
+      "feature4": "가입 불필요",
+      "feature5": "광고 없음"
+    },
+    "compare": {
+      "title": "Smallpdf Pro",
+      "feature1": "월간 구독 필요",
+      "feature2": "자동 갱신 (취소 어려움)",
+      "feature3": "무료 버전에 일일 제한",
+      "feature4": "계정 필요",
+      "feature5": "연간 $180로 비쌈",
+      "why": "PDF Tools를 무료로 사용할 수 있는데 왜 비용을 지불하나요?"
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "q1": "PDF Tools는 정말 무료인가요?",
+      "a1": "예! 모든 도구가 100% 무료로 사용 가능합니다. 신용카드 불필요, 숨겨진 비용 없음, 구독 없음.",
+      "q2": "Smallpdf는 유료인데 왜 무료인가요?",
+      "a2": "기본 PDF 도구는 누구나 접근할 수 있어야 한다고 생각합니다. 우리 도구는 효율적이고 운영 비용이 낮습니다.",
+      "q3": "내 파일은 안전한가요?",
+      "a3": "물론입니다. 파일은 안전하게 처리되고 처리 후 자동으로 삭제됩니다."
+    }
+  }
+}

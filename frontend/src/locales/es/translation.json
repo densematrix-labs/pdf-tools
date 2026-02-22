@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "pricing": "Precios"
+  },
+  "home": {
+    "title": "Herramientas PDF Gratuitas en Línea",
+    "titleHighlight": "Sin registro",
+    "subtitle": "Comprime, convierte, combina y edita archivos PDF gratis. Una mejor alternativa a Smallpdf sin límites ni marcas de agua.",
+    "badge1": "100% Gratis",
+    "badge2": "Sin registro",
+    "badge3": "Sin límites",
+    "toolsTitle": "Herramientas PDF populares",
+    "whyTitle": "¿Por qué elegir PDF Tools?",
+    "whySubtitle": "Creemos que todos merecen acceso a herramientas PDF profesionales sin pagar suscripciones.",
+    "feature1Title": "Completamente gratis",
+    "feature1Desc": "Sin cargos ocultos, sin suscripciones, sin tarjeta de crédito requerida. Todas las herramientas son gratuitas para siempre.",
+    "feature2Title": "Privacidad primero",
+    "feature2Desc": "Tus archivos se procesan de forma segura y se eliminan automáticamente. Nunca almacenamos tus documentos.",
+    "feature3Title": "Rápido y confiable",
+    "feature3Desc": "Procesa archivos instantáneamente con nuestras herramientas optimizadas. Sin esperas, sin demoras.",
+    "seoTitle": "¿Buscas una alternativa a Smallpdf?",
+    "seoDesc": "Prueba PDF Tools - la alternativa gratuita a Smallpdf. Todas las funciones que necesitas sin suscripción.",
+    "cta": "Probar ahora — Es gratis"
+  },
+  "tools": {
+    "compress": {
+      "name": "Comprimir PDF",
+      "description": "Reducir el tamaño del archivo PDF manteniendo la calidad",
+      "longDesc": "Comprime tus archivos PDF para reducir el tamaño hasta un 70% manteniendo la calidad. Perfecto para adjuntos de email.",
+      "action": "Comprimir PDF",
+      "seoTitle": "Compresor PDF Gratis - Alternativa a Smallpdf",
+      "seoContent": "Nuestro compresor PDF gratuito reduce el tamaño de archivo sin perder calidad."
+    },
+    "merge": {
+      "name": "Combinar PDF",
+      "description": "Combinar múltiples PDFs en un documento",
+      "longDesc": "Combina múltiples archivos PDF en un solo documento. Arrastra y suelta para reordenar páginas.",
+      "action": "Combinar PDFs",
+      "minFiles": "Selecciona al menos 2 archivos",
+      "seoTitle": "Combinador PDF Gratis - Fusionar PDFs en línea",
+      "seoContent": "Combina archivos PDF gratis con nuestra herramienta en línea. Sin registro requerido."
+    },
+    "pdfToWord": {
+      "name": "PDF a Word",
+      "description": "Convertir PDF a documento Word editable",
+      "longDesc": "Convierte tus archivos PDF a documentos Microsoft Word editables (.docx). Preserva el formato.",
+      "action": "Convertir a Word",
+      "seoTitle": "Convertidor PDF a Word Gratis - Sin registro",
+      "seoContent": "Convierte PDF a Word gratis. Nuestra herramienta preserva el formato."
+    },
+    "wordToPdf": {
+      "name": "Word a PDF",
+      "description": "Convertir documentos Word a PDF",
+      "longDesc": "Convierte tus documentos Word (.doc, .docx) a formato PDF. Mantiene formato y fuentes.",
+      "action": "Convertir a PDF",
+      "seoTitle": "Convertidor Word a PDF Gratis en Línea",
+      "seoContent": "Convierte Word a PDF gratis en línea. Sin instalación de software necesaria."
+    },
+    "jpgToPdf": {
+      "name": "JPG a PDF",
+      "description": "Convertir imágenes a documento PDF",
+      "longDesc": "Convierte JPG, PNG, GIF y otros formatos de imagen a PDF. Combina múltiples imágenes en un solo PDF.",
+      "action": "Crear PDF",
+      "seoTitle": "Convertidor JPG a PDF Gratis - Múltiples imágenes",
+      "seoContent": "Convierte JPG y otras imágenes a PDF gratis. Crea un documento PDF con múltiples imágenes."
+    }
+  },
+  "dropzone": {
+    "drag": "Arrastra y suelta archivos aquí",
+    "drop": "Suelta los archivos aquí",
+    "or": "o",
+    "browse": "explorar archivos",
+    "maxSize": "Tamaño máximo: {{size}} MB"
+  },
+  "common": {
+    "files": "Archivos",
+    "download": "Descargar",
+    "processing": "Procesando..."
+  },
+  "footer": {
+    "description": "Herramientas PDF gratuitas en línea. Una mejor alternativa a Smallpdf.",
+    "tools": "Herramientas",
+    "legal": "Legal",
+    "compare": "Comparar",
+    "copyright": "Todos los derechos reservados."
+  },
+  "pricing": {
+    "title": "Precios simples",
+    "subtitle": "A diferencia de Smallpdf, creemos que las herramientas PDF deberían ser gratuitas para todos.",
+    "recommended": "Recomendado",
+    "forever": "/ para siempre",
+    "getStarted": "Comenzar gratis",
+    "freePlan": {
+      "name": "Plan Gratuito",
+      "feature1": "Todas las herramientas PDF incluidas",
+      "feature2": "Procesamiento de archivos ilimitado",
+      "feature3": "Sin marcas de agua",
+      "feature4": "Sin registro requerido",
+      "feature5": "Sin anuncios"
+    },
+    "compare": {
+      "title": "Smallpdf Pro",
+      "feature1": "Suscripción mensual requerida",
+      "feature2": "Renovación automática (difícil cancelar)",
+      "feature3": "Límites diarios en versión gratuita",
+      "feature4": "Cuenta requerida",
+      "feature5": "Caro a $180/año",
+      "why": "¿Por qué pagar cuando puedes usar PDF Tools gratis?"
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "q1": "¿PDF Tools es realmente gratis?",
+      "a1": "¡Sí! Todas nuestras herramientas son 100% gratuitas. Sin tarjeta de crédito, sin cargos ocultos, sin suscripciones.",
+      "q2": "¿Por qué es gratis si Smallpdf cobra?",
+      "a2": "Creemos que las herramientas PDF básicas deberían ser accesibles para todos. Nuestras herramientas son eficientes y económicas de operar.",
+      "q3": "¿Mis archivos están seguros?",
+      "a3": "Absolutamente. Los archivos se procesan de forma segura y se eliminan automáticamente después del procesamiento."
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "pricing": "料金"
+  },
+  "home": {
+    "title": "無料オンラインPDFツール",
+    "titleHighlight": "登録不要",
+    "subtitle": "PDFファイルの圧縮、変換、結合、編集が無料。Smallpdfの代替として、制限なし、透かしなし。",
+    "badge1": "100% 無料",
+    "badge2": "登録不要",
+    "badge3": "無制限",
+    "toolsTitle": "人気のPDFツール",
+    "whyTitle": "PDF Toolsを選ぶ理由",
+    "whySubtitle": "サブスクリプションなしで、誰もがプロフェッショナルなPDFツールにアクセスできるべきだと考えています。",
+    "feature1Title": "完全無料",
+    "feature1Desc": "隠れた費用なし、サブスクリプションなし、クレジットカード不要。すべてのツールが永久に無料。",
+    "feature2Title": "プライバシー優先",
+    "feature2Desc": "ファイルは安全に処理され、自動的に削除されます。ドキュメントを保存することはありません。",
+    "feature3Title": "高速で信頼性が高い",
+    "feature3Desc": "最適化されたツールでファイルを即座に処理。待ち時間なし、遅延なし。",
+    "seoTitle": "Smallpdfの代替をお探しですか？",
+    "seoDesc": "PDF Tools - Smallpdfの無料代替品をお試しください。サブスクリプションなしで必要なすべての機能。登録不要、透かしなし、制限なし。",
+    "cta": "今すぐ試す — 無料"
+  },
+  "tools": {
+    "compress": {
+      "name": "PDF圧縮",
+      "description": "品質を維持しながらPDFファイルサイズを縮小",
+      "longDesc": "PDFファイルを最大70%圧縮しながら品質を維持。メール添付やオンライン共有に最適。",
+      "action": "PDFを圧縮",
+      "seoTitle": "無料PDF圧縮 - Smallpdf代替",
+      "seoContent": "無料のPDF圧縮ツールで品質を損なわずにファイルサイズを縮小。"
+    },
+    "merge": {
+      "name": "PDF結合",
+      "description": "複数のPDFを1つのドキュメントに結合",
+      "longDesc": "複数のPDFファイルを1つのドキュメントに結合。ドラッグ＆ドロップでページを並べ替え。",
+      "action": "PDFを結合",
+      "minFiles": "少なくとも2つのファイルを選択してください",
+      "seoTitle": "無料PDF結合 - オンラインでPDFを結合",
+      "seoContent": "オンラインツールでPDFファイルを無料で結合。登録不要、透かしなし。"
+    },
+    "pdfToWord": {
+      "name": "PDFからWord",
+      "description": "PDFを編集可能なWordドキュメントに変換",
+      "longDesc": "PDFファイルを編集可能なMicrosoft Wordドキュメント（.docx）に変換。フォーマットとレイアウトを保持。",
+      "action": "Wordに変換",
+      "seoTitle": "無料PDFからWord変換 - 登録不要",
+      "seoContent": "PDFをWordに無料で変換。フォーマットを保持し、登録不要。"
+    },
+    "wordToPdf": {
+      "name": "WordからPDF",
+      "description": "WordドキュメントをPDFに変換",
+      "longDesc": "Wordドキュメント（.doc、.docx）をPDF形式に変換。フォーマットとフォントを維持。",
+      "action": "PDFに変換",
+      "seoTitle": "無料オンラインWordからPDF変換",
+      "seoContent": "オンラインでWordをPDFに無料変換。ソフトウェアのインストール不要。"
+    },
+    "jpgToPdf": {
+      "name": "JPGからPDF",
+      "description": "画像をPDFドキュメントに変換",
+      "longDesc": "JPG、PNG、GIF、その他の画像形式をPDFに変換。複数の画像を1つのPDFに結合。",
+      "action": "PDFを作成",
+      "seoTitle": "無料JPGからPDF変換 - 複数画像対応",
+      "seoContent": "JPGやその他の画像を無料でPDFに変換。複数の画像で1つのPDFドキュメントを作成。"
+    }
+  },
+  "dropzone": {
+    "drag": "ここにファイルをドラッグ＆ドロップ",
+    "drop": "ここにファイルをドロップ",
+    "or": "または",
+    "browse": "ファイルを参照",
+    "maxSize": "最大ファイルサイズ：{{size}} MB"
+  },
+  "common": {
+    "files": "ファイル",
+    "download": "ダウンロード",
+    "processing": "処理中..."
+  },
+  "footer": {
+    "description": "無料オンラインPDFツール。Smallpdfのより良い代替品。",
+    "tools": "ツール",
+    "legal": "法的情報",
+    "compare": "比較",
+    "copyright": "全著作権所有。"
+  },
+  "pricing": {
+    "title": "シンプルな料金",
+    "subtitle": "Smallpdfとは異なり、PDFツールは誰にとっても無料であるべきだと考えています。",
+    "recommended": "おすすめ",
+    "forever": "/ 永久",
+    "getStarted": "無料で始める",
+    "freePlan": {
+      "name": "無料プラン",
+      "feature1": "すべてのPDFツールを含む",
+      "feature2": "無制限のファイル処理",
+      "feature3": "透かしなし",
+      "feature4": "登録不要",
+      "feature5": "広告なし"
+    },
+    "compare": {
+      "title": "Smallpdf Pro",
+      "feature1": "月額サブスクリプションが必要",
+      "feature2": "自動更新（キャンセルが困難）",
+      "feature3": "無料版には1日の制限あり",
+      "feature4": "アカウントが必要",
+      "feature5": "年間180ドルと高額",
+      "why": "PDF Toolsが無料で使えるのに、なぜ料金を支払うのですか？"
+    },
+    "faq": {
+      "title": "よくある質問",
+      "q1": "PDF Toolsは本当に無料ですか？",
+      "a1": "はい！すべてのツールが100%無料でご利用いただけます。クレジットカード不要、隠れた費用なし、サブスクリプションなし。",
+      "q2": "Smallpdfは有料なのに、なぜ無料なのですか？",
+      "a2": "基本的なPDFツールは誰でもアクセスできるべきだと考えています。私たちのツールは効率的で運用コストが低いです。",
+      "q3": "ファイルは安全ですか？",
+      "a3": "もちろんです。ファイルは安全に処理され、処理後に自動的に削除されます。ドキュメントを保存することはありません。"
+    }
+  }
+}

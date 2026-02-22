@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "pricing": "Pricing"
+  },
+  "home": {
+    "title": "Free PDF Tools Online",
+    "titleHighlight": "No Signup Required",
+    "subtitle": "Compress, convert, merge, and edit PDF files for free. A better alternative to Smallpdf with no limits and no watermarks.",
+    "badge1": "100% Free",
+    "badge2": "No Signup",
+    "badge3": "No Limits",
+    "toolsTitle": "Popular PDF Tools",
+    "whyTitle": "Why Choose PDF Tools?",
+    "whySubtitle": "We believe everyone deserves access to professional PDF tools without paying subscriptions.",
+    "feature1Title": "Completely Free",
+    "feature1Desc": "No hidden fees, no subscriptions, no credit card required. All tools are free forever.",
+    "feature2Title": "Privacy First",
+    "feature2Desc": "Your files are processed securely and automatically deleted. We never store your documents.",
+    "feature3Title": "Fast & Reliable",
+    "feature3Desc": "Process files instantly with our optimized tools. No waiting, no delays.",
+    "seoTitle": "Looking for a Smallpdf Alternative?",
+    "seoDesc": "Try PDF Tools - the free alternative to Smallpdf. All the features you need without the subscription. No signup required, no watermarks, no limits.",
+    "cta": "Try Now — It's Free"
+  },
+  "tools": {
+    "compress": {
+      "name": "Compress PDF",
+      "description": "Reduce PDF file size while maintaining quality",
+      "longDesc": "Compress your PDF files to reduce file size by up to 70% while keeping the quality. Perfect for email attachments and online sharing.",
+      "action": "Compress PDF",
+      "seoTitle": "Free PDF Compressor - Smallpdf Alternative",
+      "seoContent": "Our free PDF compressor reduces file size without losing quality. Unlike Smallpdf, there are no limits on how many files you can compress. Try our Smallpdf alternative today."
+    },
+    "merge": {
+      "name": "Merge PDF",
+      "description": "Combine multiple PDFs into one document",
+      "longDesc": "Merge multiple PDF files into a single document. Drag and drop to reorder pages. Simple and fast.",
+      "action": "Merge PDFs",
+      "minFiles": "Select at least 2 files",
+      "seoTitle": "Free PDF Merger - Combine PDFs Online",
+      "seoContent": "Merge PDF files for free with our online tool. No signup required, no watermarks added. A perfect free alternative to Smallpdf's merge tool."
+    },
+    "pdfToWord": {
+      "name": "PDF to Word",
+      "description": "Convert PDF to editable Word document",
+      "longDesc": "Convert your PDF files to editable Microsoft Word documents (.docx). Preserves formatting and layout.",
+      "action": "Convert to Word",
+      "seoTitle": "Free PDF to Word Converter - No Signup",
+      "seoContent": "Convert PDF to Word for free. Our tool preserves formatting and doesn't require signup. Better than Smallpdf - completely free with no limits."
+    },
+    "wordToPdf": {
+      "name": "Word to PDF",
+      "description": "Convert Word documents to PDF",
+      "longDesc": "Convert your Word documents (.doc, .docx) to PDF format. Maintains formatting and fonts.",
+      "action": "Convert to PDF",
+      "seoTitle": "Free Word to PDF Converter Online",
+      "seoContent": "Convert Word to PDF for free online. No software installation needed. A free Smallpdf alternative for document conversion."
+    },
+    "jpgToPdf": {
+      "name": "JPG to PDF",
+      "description": "Convert images to PDF document",
+      "longDesc": "Convert JPG, PNG, GIF, and other image formats to PDF. Combine multiple images into a single PDF.",
+      "action": "Create PDF",
+      "seoTitle": "Free JPG to PDF Converter - Multiple Images",
+      "seoContent": "Convert JPG and other images to PDF for free. Add multiple images to create a single PDF document. No signup, no watermarks - unlike Smallpdf."
+    }
+  },
+  "dropzone": {
+    "drag": "Drag & drop files here",
+    "drop": "Drop files here",
+    "or": "or",
+    "browse": "browse files",
+    "maxSize": "Max file size: {{size}} MB"
+  },
+  "common": {
+    "files": "Files",
+    "download": "Download",
+    "processing": "Processing..."
+  },
+  "footer": {
+    "description": "Free online PDF tools. A better alternative to Smallpdf.",
+    "tools": "Tools",
+    "legal": "Legal",
+    "compare": "Compare",
+    "copyright": "All rights reserved."
+  },
+  "pricing": {
+    "title": "Simple Pricing",
+    "subtitle": "Unlike Smallpdf, we believe PDF tools should be free for everyone.",
+    "recommended": "Recommended",
+    "forever": "/ forever",
+    "getStarted": "Get Started Free",
+    "freePlan": {
+      "name": "Free Plan",
+      "feature1": "All PDF tools included",
+      "feature2": "Unlimited file processing",
+      "feature3": "No watermarks",
+      "feature4": "No signup required",
+      "feature5": "No ads"
+    },
+    "compare": {
+      "title": "Smallpdf Pro",
+      "feature1": "Monthly subscription required",
+      "feature2": "Auto-renewal (hard to cancel)",
+      "feature3": "Daily limits on free tier",
+      "feature4": "Account required",
+      "feature5": "Expensive at $180/year",
+      "why": "Why pay when you can use PDF Tools for free?"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "Is PDF Tools really free?",
+      "a1": "Yes! All our tools are 100% free to use. No credit card required, no hidden fees, no subscriptions.",
+      "q2": "Why is this free when Smallpdf charges?",
+      "a2": "We believe basic PDF tools should be accessible to everyone. Our tools are efficient and don't cost much to run.",
+      "q3": "Are my files safe?",
+      "a3": "Absolutely. Files are processed securely and automatically deleted after processing. We never store your documents."
+    }
+  }
+}

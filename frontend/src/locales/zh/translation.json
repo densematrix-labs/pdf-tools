@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "pricing": "价格"
+  },
+  "home": {
+    "title": "免费在线 PDF 工具",
+    "titleHighlight": "无需注册",
+    "subtitle": "免费压缩、转换、合并和编辑 PDF 文件。比 Smallpdf 更好的替代品，无限制，无水印。",
+    "badge1": "100% 免费",
+    "badge2": "无需注册",
+    "badge3": "无限使用",
+    "toolsTitle": "热门 PDF 工具",
+    "whyTitle": "为什么选择 PDF Tools？",
+    "whySubtitle": "我们相信每个人都应该免费使用专业的 PDF 工具，无需付费订阅。",
+    "feature1Title": "完全免费",
+    "feature1Desc": "没有隐藏费用，没有订阅，不需要信用卡。所有工具永久免费。",
+    "feature2Title": "隐私优先",
+    "feature2Desc": "您的文件被安全处理并自动删除。我们永远不会存储您的文档。",
+    "feature3Title": "快速可靠",
+    "feature3Desc": "使用我们优化的工具即时处理文件。无需等待，无延迟。",
+    "seoTitle": "正在寻找 Smallpdf 替代品？",
+    "seoDesc": "试试 PDF Tools - Smallpdf 的免费替代品。您需要的所有功能，无需订阅。无需注册，无水印，无限制。",
+    "cta": "立即试用 — 完全免费"
+  },
+  "tools": {
+    "compress": {
+      "name": "压缩 PDF",
+      "description": "在保持质量的同时减小 PDF 文件大小",
+      "longDesc": "压缩您的 PDF 文件，可将文件大小减少高达 70%，同时保持质量。非常适合电子邮件附件和在线分享。",
+      "action": "压缩 PDF",
+      "seoTitle": "免费 PDF 压缩器 - Smallpdf 替代品",
+      "seoContent": "我们的免费 PDF 压缩器可在不损失质量的情况下减小文件大小。与 Smallpdf 不同，您可以压缩的文件数量没有限制。"
+    },
+    "merge": {
+      "name": "合并 PDF",
+      "description": "将多个 PDF 合并为一个文档",
+      "longDesc": "将多个 PDF 文件合并为一个文档。拖放以重新排序页面。简单快速。",
+      "action": "合并 PDF",
+      "minFiles": "请至少选择 2 个文件",
+      "seoTitle": "免费 PDF 合并器 - 在线合并 PDF",
+      "seoContent": "使用我们的在线工具免费合并 PDF 文件。无需注册，不添加水印。"
+    },
+    "pdfToWord": {
+      "name": "PDF 转 Word",
+      "description": "将 PDF 转换为可编辑的 Word 文档",
+      "longDesc": "将您的 PDF 文件转换为可编辑的 Microsoft Word 文档（.docx）。保留格式和布局。",
+      "action": "转换为 Word",
+      "seoTitle": "免费 PDF 转 Word 转换器 - 无需注册",
+      "seoContent": "免费将 PDF 转换为 Word。我们的工具保留格式，无需注册。"
+    },
+    "wordToPdf": {
+      "name": "Word 转 PDF",
+      "description": "将 Word 文档转换为 PDF",
+      "longDesc": "将您的 Word 文档（.doc、.docx）转换为 PDF 格式。保持格式和字体。",
+      "action": "转换为 PDF",
+      "seoTitle": "免费在线 Word 转 PDF 转换器",
+      "seoContent": "免费在线将 Word 转换为 PDF。无需安装软件。"
+    },
+    "jpgToPdf": {
+      "name": "JPG 转 PDF",
+      "description": "将图片转换为 PDF 文档",
+      "longDesc": "将 JPG、PNG、GIF 和其他图像格式转换为 PDF。将多张图片合并为一个 PDF。",
+      "action": "创建 PDF",
+      "seoTitle": "免费 JPG 转 PDF 转换器 - 多张图片",
+      "seoContent": "免费将 JPG 和其他图片转换为 PDF。添加多张图片创建单个 PDF 文档。"
+    }
+  },
+  "dropzone": {
+    "drag": "拖放文件到此处",
+    "drop": "放下文件",
+    "or": "或",
+    "browse": "浏览文件",
+    "maxSize": "最大文件大小：{{size}} MB"
+  },
+  "common": {
+    "files": "文件",
+    "download": "下载",
+    "processing": "处理中..."
+  },
+  "footer": {
+    "description": "免费在线 PDF 工具。Smallpdf 的更好替代品。",
+    "tools": "工具",
+    "legal": "法律",
+    "compare": "对比",
+    "copyright": "版权所有。"
+  },
+  "pricing": {
+    "title": "简单定价",
+    "subtitle": "与 Smallpdf 不同，我们相信 PDF 工具应该对每个人免费。",
+    "recommended": "推荐",
+    "forever": "/ 永久",
+    "getStarted": "免费开始使用",
+    "freePlan": {
+      "name": "免费方案",
+      "feature1": "包含所有 PDF 工具",
+      "feature2": "无限文件处理",
+      "feature3": "无水印",
+      "feature4": "无需注册",
+      "feature5": "无广告"
+    },
+    "compare": {
+      "title": "Smallpdf Pro",
+      "feature1": "需要月度订阅",
+      "feature2": "自动续费（难以取消）",
+      "feature3": "免费版有每日限制",
+      "feature4": "需要账户",
+      "feature5": "每年 $180，价格昂贵",
+      "why": "既然可以免费使用 PDF Tools，为什么还要付费？"
+    },
+    "faq": {
+      "title": "常见问题",
+      "q1": "PDF Tools 真的免费吗？",
+      "a1": "是的！我们所有的工具都是 100% 免费使用的。不需要信用卡，没有隐藏费用，没有订阅。",
+      "q2": "为什么 Smallpdf 收费而这里免费？",
+      "a2": "我们相信基本的 PDF 工具应该对每个人都可以使用。我们的工具效率高，运行成本不高。",
+      "q3": "我的文件安全吗？",
+      "a3": "绝对安全。文件被安全处理并在处理后自动删除。我们永远不会存储您的文档。"
+    }
+  }
+}

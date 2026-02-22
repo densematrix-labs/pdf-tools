@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #0066FF;
+  --color-accent: #FF6B35;
+  --color-surface: #FAFBFC;
+  --color-surface-dark: #0F0F1A;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'DM Sans', system-ui, sans-serif;
+  background: linear-gradient(135deg, #FAFBFC 0%, #F4F5F7 100%);
+  min-height: 100vh;
+  color: #1A1A2E;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Industrial accent line */
+.accent-line {
+  position: relative;
+}
+.accent-line::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 60px;
+  height: 4px;
+  background: var(--color-accent);
+}
+
+/* Tool card hover effect */
+.tool-card {
+  @apply bg-white rounded-xl p-6 shadow-sm border border-surface-200 transition-all duration-300;
+}
+.tool-card:hover {
+  @apply shadow-lg border-primary-500 transform -translate-y-1;
+}
+
+/* Drop zone styles */
+.drop-zone {
+  @apply border-2 border-dashed border-surface-200 rounded-xl p-12 text-center transition-all duration-200;
+}
+.drop-zone.active {
+  @apply border-primary-500 bg-primary-50;
+}
+
+/* Button styles */
+.btn-primary {
+  @apply bg-primary-500 text-white px-6 py-3 rounded-lg font-medium transition-all duration-200 hover:bg-primary-600 hover:shadow-lg active:scale-95;
+}
+.btn-secondary {
+  @apply bg-surface-100 text-surface-800 px-6 py-3 rounded-lg font-medium transition-all duration-200 hover:bg-surface-200;
+}
+
+/* Loading animation */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+.loading-spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid var(--color-surface);
+  border-top-color: var(--color-primary);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+/* File list */
+.file-item {
+  @apply flex items-center gap-4 p-4 bg-surface-50 rounded-lg border border-surface-200;
+}
